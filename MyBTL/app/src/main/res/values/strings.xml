@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">App Đặt vé xem phim</string>
+    <string name="login_account">Đăng nhập tài khoản</string>
+    <string name="register_account">Đăng ký tài khoản</string>
+    <string name="login">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="agree">Đồng ý</string>
+    <string name="reset">Huỷ</string>
+    <string name="email">Email</string>
+    <string name="fullname">Họ tên</string>
+    <string name="phone">SĐT</string>
+    <string name="password">Mật khẩu</string>
+    <string name="confirm_password">Xác nhận mật khẩu</string>
+    <string name="tv_id_bill">Mã hoá đơn :</string>
+    <string name="tv_name_film">Tên phim :</string>
+    <string name="tv_price_ticket">Giá vé :</string>
+    <string name="tv_premiere">Khởi chiếu :</string>
+    <string name="tv_cinema">Suất chiếu :</string>
+    <string name="tv_show_time">Thời gian chiếu :</string>
+    <string name="tv_date_order">Ngày đặt: </string>
+    <string name="tv_time_order">Giờ đặt: </string>
+    <string name="tv_quantity">Số lượng vé :</string>
+    <string name="tv_food">Đồ ăn/uống :</string>
+    <string name="tv_payment">Thanh toán :</string>
+    <string name="tv_total">Tổng tiền :</string>
+    <string name="tv_selected_chair">Ghế đã chọn :</string>
+    <string name="choose_room">Chọn phòng chiếu phim</string>
+    <string name="choose_chair">Chọn ghế ngồi</string>
+    <string name="choose_food">Chọn đồ ăn / đồ uống</string>
+    <string name="current_quantity">Hiện tại còn: </string>
+    <string name="quantity">Số lượng </string>
+    <string name="screen">Màn hình chính</string>
+    <string name="payment_methods">Phương thức thanh toán</string>
+    <string name="confirm">XÁC NHẬN</string>
+    <string name="confirm_info_booking">Xác nhận thông tin đặt vé</string>
+    <string name="booking">Đặt vé</string>
+    <string name="menu_home">Trang chủ</string>
+    <string name="menu_history">Lịch sử đặt vé</string>
+    <string name="menu_account">Tài khoản</string>
+    <string name="require_login">Bạn chưa đăng nhập</string>
+    <string name="choose_date">Chọn suất chiếu</string>
+    <string-array name="payment_method_items">
+        <item>Ví MoMo</item>
+        <item>Ví Shoppee Pay</item>
+        <item>Ví Zalo Pay</item>
+        <item>Thẻ Nội địa</item>
+        <item>Thẻ Quốc tế</item>
+    </string-array>
+    <string-array name="time_items">
+        <item>8:00</item>
+        <item>10:00</item>
+        <item>12:00</item>
+        <item>14:00</item>
+        <item>16:00</item>
+        <item>18:00</item>
+        <item>20:00</item>
+        <item>21:30</item>
+        <item>22:30</item>
+        <item>23:30</item>
+    </string-array>
+    <string-array name="category_items">
+        <item>Tất cả</item>
+        <item>Hành động</item>
+        <item>Kinh dị</item>
+        <item>Hài hước</item>
+        <item>Lãng mạn</item>
+        <item>Trinh thám</item>
+    </string-array>
+</resources>
